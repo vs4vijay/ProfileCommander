@@ -1,3 +1,3 @@
-# WXT + React
+# ProfileCommander
 
-This template should help get you started developing with React in WXT.
+Effortlessly manage and switch between Firefox profiles in one click.
